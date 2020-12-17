@@ -44,7 +44,7 @@ PROJECT_NUMBER         =
 # for a project that appears at the top of each page and should give viewer a
 # quick idea about the purpose of the project. Keep the description short.
 
-PROJECT_BRIEF          = "Informática Básica. Este es un proyecto para probar la documentación generada por Doxygen para un 48 proyecto de programación en C++"
+PROJECT_BRIEF          = "Este Doxygen forma parte del ejercicio de practica 10"
 
 # With the PROJECT_LOGO tag one can specify an logo or icon that is included in
 # the documentation. The maximum height of the logo should not exceed 55 pixels
